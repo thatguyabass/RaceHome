@@ -1,0 +1,4 @@
+Modify the UV to remove the Black line from UV overlap. 
+
+If the model has to be redone, Please ensure the Size and Angle of the Ramp 
+is as close as posible to the original.

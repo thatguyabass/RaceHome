@@ -1,0 +1,3 @@
+Modify the UV into something nice.
+
+Modify the Mesh to make this easier if needed, but make sure to keep the Angle of the cone.

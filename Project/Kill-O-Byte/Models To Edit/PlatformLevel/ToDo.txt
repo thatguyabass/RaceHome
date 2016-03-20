@@ -1,0 +1,5 @@
+UV's need to be modified to remove the Black Line from UV overlap.
+
+Separate a section of the mesh that is half way down from the top of the mesh, and half way around.
+Make this into a seperate mesh and but keep the original origin point. Please reach out to me (Jordan)
+if this is confusing.

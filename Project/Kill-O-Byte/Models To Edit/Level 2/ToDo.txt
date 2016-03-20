@@ -1,0 +1,4 @@
+Separate the wall OPPOSITE of the jutting out area into a stand alown mesh that is Half of the 
+Height of the Wall. Please try to keep the origin of the separate mesh in the same location.  
+
+Please Message me (Jordan) if this is confusing or unclear. 
